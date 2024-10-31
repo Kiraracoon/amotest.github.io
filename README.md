@@ -1,10 +1,6 @@
 # amotest.github.io
+<HTML>
 <head> 
-<form action="https://wa.me/996703380946" method="GET">
-  <button type="submit" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/225px-WhatsApp.svg.png" width="40" 
-   height="40" alt="Привет"></button>
-</form>
-
 <!-- Yandex.Metrika counter -->
 <script type="text/javascript" >
    (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
@@ -21,5 +17,14 @@
 </script>
 <noscript><div><img src="https://mc.yandex.ru/watch/98780924" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
 <!-- /Yandex.Metrika counter -->
-<script id="crm-wa-button-script" src="https://app.i2crm.ru/api_v1/js/crm_wa_button_v1.js" data-source="ym" data-text="Здравствуйте. Номер заявки {u_code}"></script>
+
+<form action="https://wa.me/996703380946" method="GET">
+  <button type="submit" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/225px-WhatsApp.svg.png" width="40" 
+   height="40" alt="Привет"></button>
+</form>
+
+<script id="crm-wa-button-script" src="https://app.i2crm.ru/api_v1/js/crm_wa_button_v1.js" data-source="ym" data-text="Здравствуйте. Номер заявки {u_code}">
+</script>
+
 </head>
+</HTML>
